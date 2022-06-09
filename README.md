@@ -14,5 +14,5 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueosorio)](https://github.com/josueosorio/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue16osorio)](https://github.com/josue16osorio/)
 
