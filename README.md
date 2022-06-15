@@ -1,4 +1,8 @@
 <h2>Olá Eu sou Josué osorio</h2>
+<p>Analista e Desenvolvedor de Sistemas</p>
+<p>Pós em engenharia de controle e automação</p>
+<p>Pós em engenharia de software</p>
+
 😉<b>Página em construção</b>
 
 
